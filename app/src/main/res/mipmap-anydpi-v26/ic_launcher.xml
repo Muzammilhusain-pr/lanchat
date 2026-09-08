@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Placeholder adaptive icon -- swap in real assets before shipping.
+<!-- Placeholder adaptive icon. Swap in real assets before shipping.
      Android Studio's "New > Image Asset" wizard will regenerate this
      properly from a source PNG/vector in a few clicks. -->
 <adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
